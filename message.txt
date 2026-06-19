@@ -1,16 +1,21 @@
-🌆 18:30
+🌙 美股盤中 22:00
 
 ━━━ 🇺🇸 美股 ━━━
 Market Closed (Juneteenth Holiday)
 
 ━━━ 🇲🇾 馬股 ━━━
-MAYBANK RM11.16 ⚪
+MAYBANK RM11.16 (保持)
+└ 大馬銀行穩健表現
+
+KLCI 1,701.46 (-0.58%)
+└ 地區漲跌互見
 
 ━━━ 🌐 宏觀 ━━━
-- Fed holds rates 3.50%-3.75%; 1 rate hike expected in 2026
-- Oil +0.61% to $77.07/bbl  
-- China GDP forecast 5% for 2026
-- NVIDAA-TSMC AI semiconductor advancement
-- Microsoft expands AI in China
 
-💡 US market closed; focus on inflation concerns and tech AI drives.
+└ 聯準會維持利率3.50%-3.75%，通膨升至4.2%
+└ 原油WTI $76.51，周跌逾一成
+└ 美元馬幣升至4.0625
+└ 中國GDP 2026年目標4.5-5%
+└ NVIDIAMTSMC AI晶片製造創新
+
+💡 聯準會按兵不動；通膨風險升溫、油價回檔。
